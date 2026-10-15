@@ -1,0 +1,9 @@
+{
+  "hook_max_s": 3.0,
+  "hook_max_words": 10,
+  "question_max_s": 25.0,
+  "stakes_max_s": 35.0,
+  "min_beats": 3,
+  "recap_max_s": 20.0,
+  "wpm_band": [145, 160]
+}
